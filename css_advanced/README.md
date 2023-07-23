@@ -1,1 +1,3 @@
 This is Now it is time to apply the knowledge you have acquired so far to a practical project. Feel free to review some of the previous resources if you need a refresher on them. Note that to get the project completed, you are not restricted to the resources listed here. Feel free to research or source for other resources that will assist you in completing this project.[A[A[i[D[D[D[D[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C[C[C[Cnow[C[C[C[C[C[C[
+
+![Homepage](https://github.com/Mimeen/alx_html_css/assets/134852026/e15fc1bf-34bb-40f2-9c5f-8be00b5d28a1)
